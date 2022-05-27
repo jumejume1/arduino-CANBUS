@@ -1,6 +1,6 @@
 # arduino-CANBUS
-MCP2515 CAN BUS Module with Arduino | Arduino CAN Tutorial
-Seeed Arduino CAN  Library
+MCP2515 CAN BUS Module with Arduino | Arduino CAN Tutorial<br>
+Seeed Arduino CAN  Library<br>
 https://github.com/Seeed-Studio/Seeed_Arduino_CAN
 <br>
 <br>
